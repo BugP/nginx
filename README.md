@@ -32,4 +32,4 @@ docker run -d --name=nginx --restart=always \
 > html 目录为站点根目录,自行创建子目录存放网页以用来部署多个站点.
 
 ## 链接
-[Docker 打造支持快速部署和迁移的 Nginx 环境](https://www.ioiox.com/archives/91.html)
+[Docker 打造支持快速部署和迁移的 Nginx 环境](https://www.sonteng.cn/21.html)
