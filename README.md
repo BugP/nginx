@@ -5,7 +5,7 @@ docker 快速部署 nginx 环境,适用于 HTML 页面站点,简单 Web 测试�
 在 root 目录下 git clone 本仓库用来挂载相关配置文件
 ```shell
 cd ~
-git clone https://github.com/stilleshan/nginx.git
+git clone https://github.com/BugP/nginx.git
 ```
 启动 nginx 容器
 ```shell
